@@ -1,0 +1,7 @@
+{ 
+"greeting" : ["hi","hello","hallo","moin","hey"],
+"location": ["address","location","place"],
+"reservation":["reserve","reservation","book","booking"],
+"contact" : ["contact","phone","number","reach","call","mobile"],
+"menu":["menu","offer","serve"]
+}

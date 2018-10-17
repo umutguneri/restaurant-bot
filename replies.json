@@ -1,0 +1,38 @@
+{ 
+"greetingAlone" : 	[
+			"How can we help you today?",
+			"Welcome to Vapiano, how can I serve you?",
+			"Thanks for reaching out, how can I help?"
+		],
+
+"greeting" : 	[
+			"Welcome to Vapiano",
+			"Thank you for contacting us"
+		],
+
+"location": 	[
+			"We are located at Knochenhauerstraße 16, this map will help you reach us fast.",
+			"Vapiano is located at the City Center, here’s a small guide",
+			"We are not that far from the Haputbanhof, this is for you so you don’t lose your way!"
+		],
+
+"reservation":["reserve","reservation","book","booking"],
+
+"contact" : 	[
+			"You can reach us at",
+			"We will be glad to help you at",
+			"Just give us a call at"
+		],
+
+"menu":		[	
+			"menu",
+			"offer",
+			"server"
+		],
+"his":		[
+			"Hi",
+			"Hey",
+			"Hallo",
+			"Moin Moin!"
+		]	
+}
